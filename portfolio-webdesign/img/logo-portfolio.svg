@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 296 259" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Artboard1" transform="matrix(1,0,0,1,-1289.65,-162.026)">
+        <g transform="matrix(1,0,0,1,988.863,64.9258)">
+            <path d="M339.432,222.11C331.55,210.877 327.103,198.082 327.103,184.508C327.103,140.018 374.881,103.897 433.73,103.897C492.579,103.897 540.357,140.018 540.357,184.508L540.325,185.447C568.526,197.991 587.763,222.903 587.763,251.555C587.763,292.851 547.802,326.378 498.581,326.378C487.797,326.378 477.457,324.768 467.883,321.819C451.368,337.309 426.648,347.155 399.05,347.155C349.278,347.155 308.868,315.133 308.868,275.69C308.868,254.353 320.693,235.188 339.432,222.11Z" style="fill:url(#_Radial1);"/>
+        </g>
+        <g transform="matrix(3.34567,0,0,3.34567,94.4146,-341.44)">
+            <text x="371.783px" y="186.698px" style="font-family:'CharcoalCY', 'Charcoal CY';font-size:14.347px;fill:rgb(252,252,252);">Luc</text>
+            <text x="371.783px" y="202.243px" style="font-family:'CharcoalCY', 'Charcoal CY';font-size:14.347px;fill:rgb(252,252,252);">Van Dijck</text>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(120.158,0.742188,-0.647352,104.805,448.316,225.526)"><stop offset="0%" style="stop-color:rgb(128,244,110);stop-opacity:1"/><stop offset="51%" style="stop-color:rgb(97,236,92);stop-opacity:1"/><stop offset="100%" style="stop-color:rgb(1,210,35);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 240 278" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Artboard3" transform="matrix(1,1.79615e-17,2.24519e-17,1.15833,320,69.5)">
+        <g transform="matrix(1,-1.55063e-17,-1.93829e-17,0.863309,-16.6074,6.57768)">
+            <path d="M-69.309,-31.895C-69.309,-43.845 -79.011,-53.547 -90.961,-53.547L-275.824,-53.547C-287.775,-53.547 -297.477,-43.845 -297.477,-31.895L-297.477,157.656C-297.477,169.607 -287.775,179.309 -275.824,179.309L-90.961,179.309C-79.011,179.309 -69.309,169.607 -69.309,157.656L-69.309,-31.895Z" style="fill:rgb(139,187,224);"/>
+        </g>
+        <g transform="matrix(1,-1.55063e-17,-1.93829e-17,0.863309,-17.3926,8.93384)">
+            <path d="M-84.395,-19.252C-84.395,-31.177 -94.077,-40.859 -106.002,-40.859L-259.213,-40.859C-271.138,-40.859 -280.82,-31.177 -280.82,-19.252L-280.82,99.555C-280.82,111.481 -271.138,121.163 -259.213,121.163L-106.002,121.163C-94.077,121.163 -84.395,111.481 -84.395,99.555L-84.395,-19.252Z" style="fill:rgb(234,238,242);"/>
+        </g>
+        <g transform="matrix(1,-1.55063e-17,-1.93829e-17,0.863309,-1.55063e-15,9.06475)">
+            <path d="M-191.077,161C-189.716,158.872 -189,156.458 -189,154C-189,146.273 -195.945,140 -204.5,140C-213.055,140 -220,146.273 -220,154C-220,156.458 -219.284,158.872 -217.923,161L-191.077,161Z" style="fill:rgb(11,16,20);"/>
+        </g>
+        <g transform="matrix(1,-1.55063e-17,-1.93829e-17,0.863309,-1.55063e-15,9.06475)">
+            <rect x="-260" y="-20" width="143" height="120" style="fill:rgb(11,16,20);"/>
+        </g>
+        <g transform="matrix(1,-1.55063e-17,-1.93829e-17,0.863309,-1.55063e-15,9.06475)">
+            <text x="-238.562px" y="3.855px" style="font-family:'CharcoalCY', 'Charcoal CY';font-size:6px;fill:rgb(241,229,229);">* {</text>
+            <text x="-235.562px" y="10.356px" style="font-family:'CharcoalCY', 'Charcoal CY';font-size:6px;fill:rgb(241,229,229);">body: background: #FFF;</text>
+            <text x="-235.562px" y="16.857px" style="font-family:'CharcoalCY', 'Charcoal CY';font-size:6px;fill:rgb(241,229,229);">font-family: Arial, sans-serif;</text>
+            <text x="-238.562px" y="23.358px" style="font-family:'CharcoalCY', 'Charcoal CY';font-size:6px;fill:rgb(241,229,229);">}</text>
+        </g>
+        <g transform="matrix(1,-1.55063e-17,-1.93829e-17,0.863309,-1.55063e-15,9.06475)">
+            <text x="-235.934px" y="35.52px" style="font-family:'CharcoalCY', 'Charcoal CY';font-size:6px;fill:rgb(241,229,229);">.container {</text>
+            <text x="-232.934px" y="42.021px" style="font-family:'CharcoalCY', 'Charcoal CY';font-size:6px;fill:rgb(241,229,229);">width: 1000px;</text>
+            <text x="-232.934px" y="48.521px" style="font-family:'CharcoalCY', 'Charcoal CY';font-size:6px;fill:rgb(241,229,229);">margin: 0 auto;</text>
+            <text x="-235.934px" y="55.022px" style="font-family:'CharcoalCY', 'Charcoal CY';font-size:6px;fill:rgb(241,229,229);">}</text>
+        </g>
+    </g>
+</svg>
